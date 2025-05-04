@@ -1,7 +1,7 @@
 body {
-    font-family: Verdana;
-    background-color: #e9ecef;
-    padding: 20px;
-    color: #333;
-  }
-  
+  font-family: 'Georgia', serif;
+  background: linear-gradient(to right, #a29bfe, #81ecec);
+  padding: 20px;
+  color: #2d3436;
+  border-radius: 10px;
+}
