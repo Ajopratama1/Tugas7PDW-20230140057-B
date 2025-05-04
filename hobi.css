@@ -1,10 +1,13 @@
 body {
-    font-family: Tahoma;
-    background-color: #f8f9fa;
-    padding: 20px;
-  }
-  
-  ul {
-    list-style-type: square;
-  }
-  
+  font-family: 'Courier New', monospace;
+  background-color: #fd79a8; /* pink terang */
+  color: #fff;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: circle;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 15px;
+  border-radius: 10px;
+}
